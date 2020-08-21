@@ -1,0 +1,16 @@
+C:\Users\Radha\source\repos\Consolescheduler\bin\Debug\Consolescheduler.exe.config
+C:\Users\Radha\source\repos\Consolescheduler\bin\Debug\Consolescheduler.exe
+C:\Users\Radha\source\repos\Consolescheduler\bin\Debug\Consolescheduler.pdb
+C:\Users\Radha\source\repos\Consolescheduler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Radha\source\repos\Consolescheduler\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Radha\source\repos\Consolescheduler\bin\Debug\System.Web.Http.dll
+C:\Users\Radha\source\repos\Consolescheduler\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Radha\source\repos\Consolescheduler\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Radha\source\repos\Consolescheduler\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Radha\source\repos\Consolescheduler\bin\Debug\System.Web.Http.xml
+C:\Users\Radha\source\repos\Consolescheduler\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Radha\source\repos\Consolescheduler\obj\Debug\Consolescheduler.csprojAssemblyReference.cache
+C:\Users\Radha\source\repos\Consolescheduler\obj\Debug\Consolescheduler.csproj.CoreCompileInputs.cache
+C:\Users\Radha\source\repos\Consolescheduler\obj\Debug\Consolescheduler.csproj.CopyComplete
+C:\Users\Radha\source\repos\Consolescheduler\obj\Debug\Consolescheduler.exe
+C:\Users\Radha\source\repos\Consolescheduler\obj\Debug\Consolescheduler.pdb
